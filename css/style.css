@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.navbar{
+    width: 100%;
+}
+.navbar .nav-link{
+    color: white !important;
+}
+header{
+    background-image: url("./download.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+header span{
+        font-weight: 900;
+        background: linear-gradient(90deg, rgba(132, 250, 175, 0.835), rgba(143, 210, 244, 0.74));
+    
+}
+
+
